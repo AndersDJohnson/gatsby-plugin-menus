@@ -34,9 +34,9 @@
   "devDependencies": {
     "babel-jest": "^24.7.1",
     "babel-preset-gatsby": "^0.1.11",
-    "gatsby": "^2.5.0",
+    "gatsby": "^5.16.1",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^24.7.1",
+    "jest": "^30.5.2",
     "react-test-renderer": "^16.8.6"
   }
 }
